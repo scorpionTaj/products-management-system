@@ -1,0 +1,8 @@
+<dependencies>
+    <!-- ...existing dependencies... -->
+    <dependency>
+        <groupId>org.webjars</groupId>
+        <artifactId>bootstrap-icons</artifactId>
+        <version>1.10.5</version>
+    </dependency>
+</dependencies>
