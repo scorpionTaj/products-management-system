@@ -1,6 +1,6 @@
 # Products Management System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Build Status](https://img.shields.io/github/actions/workflow/status/scorpionTaj/products-management-system/ci.yml?branch=main)](https://github.com/scorpionTaj/products-management-system/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
 
 A simple Products Management System built with Spring Boot. This application allows you to manage products (add, edit, delete, and list) via a web UI and basic authentication.
 
